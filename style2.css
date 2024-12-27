@@ -1,0 +1,47 @@
+h1{
+    letter-spacing: 30px;
+    margin: 10px;
+    border-left: 10px white solid;
+    border-bottom: 10px white solid;
+    border-top:10px white solid;
+    border-right: 10px white solid;
+    text-align: center; 
+
+    
+    border-color: white solid;
+    
+}
+body{
+    background-color: coral;
+}
+p{
+    text-align: center;
+}
+a{
+    background-color: cyan;
+    margin: 20px;
+    border: 10px white solid;
+}
+h2{
+    letter-spacing: 30px;
+    margin: 10px;
+    border-left: 5px white solid;
+    border-bottom: 5px white solid;
+    border-top:5px white solid;
+    border-right: 5px white solid;
+    text-align: center; 
+}
+ol{
+    background-color: white;
+    border-left: 10px white solid;
+    border-bottom: 10px white solid;
+    border-top:10px white solid;
+    border-right: 10px white solid;
+    
+}
+li:hover{
+    background-color:cyan;
+}
+a:hover{
+    background-color: blue;
+}

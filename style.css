@@ -1,0 +1,41 @@
+.line{
+    text-decoration: line-through;
+    text-transform: capitalize;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    text-shadow: 10px 6px 2px;
+    letter-spacing: 10px;
+}
+div{
+    background-color: blue;
+    color: antiquewhite ;
+    border-left: 30px green solid;
+    border-right: 30px green solid;
+    border-top: 30px green solid;
+    border-bottom: 30px green solid;
+    text-overflow: inherit ;
+    height: 350px;
+    margin-left: 40px;
+    
+}
+a{
+    padding: 10px;
+    background: white;
+    margin-top: 10px;
+    margin-left: 50px;
+   
+}
+ol{
+    color: white;
+    background: solid greenyellow;
+    margin: 20px;
+    background-color: chartreuse;
+
+}
+li{
+    background-color: red;
+}

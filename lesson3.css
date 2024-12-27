@@ -1,0 +1,31 @@
+body{
+    background-color: antiquewhite;
+}
+.bg{background-color: aqua;
+    padding: 20px;
+
+}
+#p1{
+    color: blue;
+}
+#p2{
+    color: black;
+}
+#p3{
+    color: green;
+}
+.a{
+    background-color: blueviolet;
+    padding: 20px;
+}
+.white{
+    color: white;
+}
+#Boy{
+    color: green;
+    background-color:red;
+    margin-top: 0px;
+}
+#mar{
+    margin-bottom: 0px;
+}
