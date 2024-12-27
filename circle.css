@@ -1,0 +1,85 @@
+#sun{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    left: 300px;
+    top: 250px;
+}
+#mercury{
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+    border-radius: 50%;
+    position: absolute;
+    left: 40px;
+    top: 70px;
+}
+#venus{
+    height: 50px;
+    width: 50px;
+    background-color: beige;
+    border-radius: 50%;
+    position: absolute;
+    left: 100px;
+    top: 70px;
+
+}
+#Earth{
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+    border-radius: 50%;
+    position: absolute;
+    left: 440px;
+    top: 100px;
+
+
+}
+#ring1{
+    height: 500px;
+    width: 500px;
+    border: solid;
+    border-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    
+}
+#ring2{
+    height: 420px;
+    width: 420px;
+    border: solid;
+    border-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 150px;
+    top: 140px;
+    
+}
+#ring3{
+    height: 380px;
+    width: 380px;
+    border: solid;
+    border-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 170px;
+    top: 160px;
+}
+#ring4{
+    height: 320px;
+    width: 320px;
+    border: solid;
+    border-color: white;
+    border-radius: 50%;
+    position: absolute;
+    left: 190px;
+    top: 180px;
+}
+
+body{
+    background-color: black;
+}

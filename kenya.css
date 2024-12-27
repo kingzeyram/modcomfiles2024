@@ -1,0 +1,24 @@
+#black{
+   
+    background-color: black;
+    padding: 60px;
+}
+.white{
+    padding: 10px;
+    background-color: white;
+}
+#red{
+    padding: 60px;
+    background-color: red;
+}
+#green{
+    padding: 60px;
+    background-color: green;
+
+}
+img{
+    height: 300px;
+    position: absolute;
+    left: 400px;
+    top: 55px;
+}
