@@ -1,0 +1,2 @@
+[9296:6548:0831/181009.827:VERBOSE1:installer.cc(386)] "C:\Users\AREBA\Downloads\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={2E455AE7-8AB1-C229-F049-4483D23E7711}&lang=en&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+[9296:6548:0831/181135.076:VERBOSE1:installer.cc(491)] Metainstaller WMain returned: 0, Windows error: 0
